@@ -71,3 +71,7 @@ The Fisher's Exact Test tells us the odds of getting aids if you take the drug. 
 # Discussion and Conclusion
 
 <!--Discussion and conclusion here.  If you found a relationship be sure to consider whether the relationship occurs because one of the variavbles causes the other, or whether they perhasps are related for some other reason.  Watch the chapter 6 videos from the GeorgeTown videos collection.!-->
+
+The question to be answered was if the new drug triUmpsal was effective at treating aids in females. The graphical data showed that the drug did not seem to be working for females at preventing aids. The numerical data confirms this, showing that the percentage of the drug was higher than the percentage of the placebo, meaning the drug was not as effective at treating aids than the placebo was for women. This means that the dug is not working to prevent aids for the women. A Fisher's Exact Test was ran to confirm this. This test told us that the odds of a female getting aids is 1.5 to 1, confirming that the drug is not working for the females in preventing aids.
+
+
