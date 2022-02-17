@@ -54,7 +54,7 @@ rowPerc(table1)
 colPerc(table1)
 ```
 
-
+The numerical data confirms that for the females, taking the drug is not helping with aids. The numerical data shows that around 59% of the females got aids that tpook the drug, and around 41% of the females who took the placebo got aids. Essentially, the drug does not seem to be working for the females, but it is making them get aids rather than helping to prevent aids.
 
 ## Inferential Results
 
