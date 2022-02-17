@@ -66,6 +66,7 @@ chisqtestGC(table1)
 fisher.test(table1)
 ```
 
+The Fisher's Exact Test tells us the odds of getting aids if you take the drug. The test shows that the odds of a female getting aids is 1.5 to 1. The odds should not be greater, they should be less, therefore, this test confirms that the drug is not working for the females. 
 
 # Discussion and Conclusion
 
